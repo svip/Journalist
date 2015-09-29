@@ -1,0 +1,19 @@
+{
+	"normalmessage": [
+		"{{.Speaker}}, som havde taget en hat på til lejligheden, påpegede »{{.FullLine}}«.",
+		"»{{.FullLine}}« tilføjede {{.Speaker}}.",
+		"{{if .Line2}}»{{.Line1}}« mumler {{.Speaker}} mens {{.SpeakerPronoun}} velovervejet åbner en spegepølse, »{{.Line2}}«.{{else}}»{{.FullLine}}« mumler {{.Speaker}} mens {{.SpeakerPronoun}} velovervejet åbner en spegepølse.{{end}}",
+		"{{.Speaker}} slår hårdt ned i tastaturet og udbryder »{{.FullLine}}«.",
+		"»{{.FullLine}}«, sagde {{.Speaker}} fortrøstningsfuld."
+	],
+	"tomessage": [
+		"»{{.FullLine}}« sagde {{.Speaker}} til {{.Receiver}}."
+	],
+	"join": [
+		"Vi møder {{.Joiner}} på en café.",
+		"Uden foran ministeriet fanger vi {{.Joiner}}."
+	],
+	"leaves": [
+		"{{.Leaver}} vender sig imod os."
+	]
+}
