@@ -5,7 +5,7 @@
 		"{{if .Line2}}»{{.Line1}}« mumler {{.Speaker}} mens {{.SpeakerPronoun}} velovervejet åbner en spegepølse, »{{.Line2}}«.{{else}}»{{.FullLine}}« mumler {{.Speaker}} mens {{.SpeakerPronoun}} velovervejet åbner en spegepølse.{{end}}",
 		"{{.Speaker}} slår hårdt ned i tastaturet og udbryder »{{.FullLine}}«.",
 		"»{{.FullLine}}«, sagde {{.Speaker}} fortrøstningsfuld.",
-        "Undervejs i løgskæringen kigger {{.Speaker}} op og undrer sig: »{{.FullLine}}«"
+		"Undervejs i løgskæringen kigger {{.Speaker}} op og undrer sig: »{{.FullLine}}«"
 	],
 	"tomessage": [
 		"»{{.FullLine}}« sagde {{.Speaker}} til {{.Receiver}}.",
@@ -14,13 +14,13 @@
 	"join": [
 		"Vi møder {{.Joiner}} på en café.",
 		"Ude foran ministeriet fanger vi {{.Joiner}}.",
-        "Frokostklokken ringer, og vi ser {{.Joiner}} skynde sig hen til bordet.",
-        "»{{.Joiner}}!«, udbryder alle, da vedkommende pludseligt dukker op.",
-        "{{.Joiner}} kommer forsinket indad døren og bliver af dette mikro-samfund sat til at dække bord."
+		"Frokostklokken ringer, og vi ser {{.Joiner}} skynde sig hen til bordet.",
+		"»{{.Joiner}}!«, udbryder alle, da vedkommende pludseligt dukker op.",
+		"{{.Joiner}} kommer forsinket indad døren og bliver af dette mikro-samfund sat til at dække bord."
 	],
 	"leaves": [
 		"{{.Leaver}} vender sig imod os.",
-        "{{.Leaver}} er skuffet over manglen på rødløg og smutter dramatisk.",
-        "{{.Leaver}} er mæt og forlader selskabet."
+		"{{.Leaver}} er skuffet over manglen på rødløg og smutter dramatisk.",
+		"{{.Leaver}} er mæt og forlader selskabet."
 	]
 }
