@@ -11,9 +11,12 @@
 	],
 	"join": [
 		"Vi møder {{.Joiner}} på en café.",
-		"Uden foran ministeriet fanger vi {{.Joiner}}."
+		"Uden foran ministeriet fanger vi {{.Joiner}}.",
+        "Lettere svedig efter cykelturen herhen, mødes vi af {{.Joiner}}.",
+
 	],
 	"leaves": [
-		"{{.Leaver}} vender sig imod os."
+		"{{.Leaver}} vender sig imod os.",
+        "{{.Leaver}} kigger forfærdet på uret, og kommer i tanke om, at børnene skal køres til fodbold."
 	]
 }
